@@ -18,4 +18,4 @@ jobs:
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_FIR_REACT_96A9B }}
-          projectId: fir-deploy-ci-cd
+          projectId: fir-react-96a9b
