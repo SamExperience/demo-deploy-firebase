@@ -5,6 +5,7 @@ function App() {
     <>
       <h1>Firebase deploy</h1>
       <p>v0.2.0</p>
+      <p>push main</p>
     </>
   );
 }
